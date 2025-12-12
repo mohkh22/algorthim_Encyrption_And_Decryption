@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed\\Downloads\\Cipher\\Enc\u0026Dec\\EncryptionAndDecryption\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BE6AA3-8DA0-4B58-857D-96D8C44E9393}|EncyrptionAndDecryption.csproj|c:\\users\\mohamed\\downloads\\cipher\\enc\u0026dec\\encryptionanddecryption\\sql_injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BE6AA3-8DA0-4B58-857D-96D8C44E9393}|EncyrptionAndDecryption.csproj|solutionrelative:sql_injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BE6AA3-8DA0-4B58-857D-96D8C44E9393}|EncyrptionAndDecryption.csproj|c:\\users\\mohamed\\downloads\\cipher\\enc\u0026dec\\encryptionanddecryption\\sql_injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8BE6AA3-8DA0-4B58-857D-96D8C44E9393}|EncyrptionAndDecryption.csproj|solutionrelative:sql_injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sql_injection.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\Downloads\\Cipher\\Enc\u0026Dec\\EncryptionAndDecryption\\Sql_injection.cs",
+              "RelativeDocumentMoniker": "Sql_injection.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\Downloads\\Cipher\\Enc\u0026Dec\\EncryptionAndDecryption\\Sql_injection.cs",
+              "RelativeToolTip": "Sql_injection.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T23:22:56.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sql_injection.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\Downloads\\Cipher\\Enc\u0026Dec\\EncryptionAndDecryption\\Sql_injection.cs",
+              "RelativeDocumentMoniker": "Sql_injection.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\Downloads\\Cipher\\Enc\u0026Dec\\EncryptionAndDecryption\\Sql_injection.cs [Design]",
+              "RelativeToolTip": "Sql_injection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T23:22:54.764Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
